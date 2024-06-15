@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /files/CV_CV_Carla_Mirabella.pdf
 author_profile: true
 redirect_from:
   - /resume
