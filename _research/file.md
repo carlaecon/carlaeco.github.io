@@ -1,3 +1,8 @@
+---
+title: "file"
+collection: research
+---
+
 ### [Unhealthy Social Media: Uncovering the Role of Attention in Health Decisions](https://carlamirabella.github.io/research/usm/)
 
 I study how social media consumption influences individuals' healthcare demand and choices, with a particular focus on attention.
