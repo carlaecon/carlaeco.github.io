@@ -5,7 +5,7 @@ I study how social media consumption influences individuals' healthcare demand a
 
 ### [What Women Want: Marriage Market Miserceptions](https://carlamirabella.github.io/research/www/)
 
-(joint with [Maite Deambrosi](https://sites.google.com/view/maitedeambrosi/home?authuser=0), [Daniela Santos Càrdenas](https://www.danielasantoscardenas.com))
+(joint with [Maite Deambrosi](https://sites.google.com/view/maitedeambrosi/home?authuser=0) and [Daniela Santos Càrdenas](https://www.danielasantoscardenas.com))
 
 Marriage-market considerations play a crucial role in determining labor-market outcomes. Bursztyn et al. (2017) show that female students may compromise their career prospects to signal traits they deem desirable in the marriage market. The accuracy of such perceptions is unclear, due to the absence of incentive-compatible elicitation of preferences and second-order beliefs in this context. We aim to fill this gap in the literature by measuring such perceptions and uncovering their impact on marriage- and labor-market outcomes.
 
